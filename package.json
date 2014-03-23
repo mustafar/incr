@@ -1,0 +1,25 @@
+{
+  "name": "incr",
+  "version": "0.0.0",
+  "main": "./lib/incr",
+  "description": "Increment or decrement the number under cursor.",
+  "repository": "https://github.com/mustafar/incr",
+  "homepage": "https://github.com/mustafar/incr",
+  "bugs": "https://github.com/mustafar/incr/issues",
+  "license": "MIT",
+  "activationEvents": [
+    "incr:incr",
+    "incr:decr"
+  ],
+  "engines": {
+    "atom": "*"
+  },
+  "keywords": [
+    "incr",
+    "decr",
+    "increment",
+    "decrement",
+    "add",
+    "substract"
+  ]
+}
