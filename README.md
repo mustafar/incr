@@ -12,7 +12,7 @@ An [Atom](https://atom.io/) package to increment and decrement the number under 
 - If you decr .0 it becomes .-1
 
 ## Demo
-![incr demo](https://f.cloud.github.com/assets/645112/2494081/3779761c-b2b6-11e3-8355-a7f29be727b4.gif)
+![incr demo](https://f.cloud.github.com/assets/645112/2494104/6f464556-b2b7-11e3-8463-dbffab705fd8.gif)
 
 ## License
 Copyright (c) 2014 Mustafa Rizvi
