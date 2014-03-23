@@ -1,6 +1,6 @@
 # incr
 
-An Atom package to increment and decrement the number under the cursor.
+An [Atom](https://atom.io/) package to increment and decrement the number under the cursor.
 
 ### Default Keybindings
 ```cmd-ctrl-k``` to increment  
