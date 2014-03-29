@@ -1,6 +1,8 @@
 {
   ".workspace": {
     "ctrl-cmd-k": "incr:incr",
-    "ctrl-cmd-j": "incr:decr"
+    "ctrl-cmd-j": "incr:decr",
+    "ctrl-cmd-K": "incr:incr-pow",
+    "ctrl-cmd-J": "incr:decr-pow"
   }
 }
