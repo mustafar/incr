@@ -3,8 +3,10 @@
 An [Atom](https://atom.io/) package to increment and decrement the number under the cursor.
 
 ### Default Keybindings
-```cmd-ctrl-k``` to increment  
-```cmd-ctrl-j``` to decrement  
+```cmd-ctrl-k``` to increment by 1  
+```cmd-ctrl-K``` to increment by power(10, position)  
+```cmd-ctrl-j``` to decrement by 1  
+```cmd-ctrl-J``` to decrement by power(10, position)  
 
 ### Whatchout!
 - Still working on specs
